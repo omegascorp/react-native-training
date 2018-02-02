@@ -13,7 +13,7 @@ List of the training materials for React Native
 2. Envoriment setup, [create-react-native-app](https://github.com/react-community/create-react-native-app)	[React Native For Everyone #1 - Create React Native App & Setup](https://www.youtube.com/watch?v=3Pm5_Cf7pQI&t=57s)
 3.
 	1. iOS setup, simulator	[React Native For Everyone #2 - iOS Setup & Simulator](https://www.youtube.com/watch?v=K0y2tc38l2s) 
-	2. Asndroid setup, emulator	[React Native For Everyone #3 - Android Setup & Emulation]([https://www.youtube.com/watch?v=Q0dERWCzoi0)	
+	2. Asndroid setup, emulator [React Native For Everyone #3 - Android Setup & Emulation](https://www.youtube.com/watch?v=Q0dERWCzoi0)	
 4. Understanding React Native & React	[React Native For Everyone #4 - Understanding React Native & React](https://www.youtube.com/watch?v=31nry-ewk4c)	
 5. Styles In React Native [React Native For Everyone #5 - Styles In React Native](https://www.youtube.com/watch?v=TbxyysumfPU)	
 6. Flexbox In React Native [React Native Flex Basics](https://www.youtube.com/watch?v=-xFF5KF-KpE&list=PL7D-0n1z1EbhkundIsOBaN_mlLvV4_hyO)
