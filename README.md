@@ -6,14 +6,14 @@ List of the training materials for React Native
 0. 
 	1. React [REACT JS TUTORIAL #1 - Reactjs Javascript Introduction & Workspace Setup](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 	2. Flux [REACT FLUX TUTORIAL #9 - React Flux Introduction & Flux Stores](https://www.youtube.com/watch?v=PvjNglsyOHs&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=9)
-	3. Redux [REACT FLUX TUTORIAL #9 - React Flux Introduction & Flux Stores](Redux Tutorial #1 - React js tutorial - How Redux Works)[https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=15]
+	3. Redux [Redux Tutorial #1 - React js tutorial - How Redux Works](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=15)
 
 ## React Native Tutorials
 1. Get started	[What Is React Native?](https://www.youtube.com/watch?v=JKCgwL-IfgM)
-2. Envoriment setup, [create-react-native-app](https://github.com/react-community/create-react-native-app)	[React Native For Everyone #1 - Create React Native App & Setup](https://www.youtube.com/watch?v=3Pm5_Cf7pQI&t=57s)
+2. Envoriment setup, [create-react-native-app](https://github.com/react-community/create-react-native-app) [React Native For Everyone #1 - Create React Native App & Setup](https://www.youtube.com/watch?v=3Pm5_Cf7pQI&t=57s)
 3.
 	1. iOS setup, simulator	[React Native For Everyone #2 - iOS Setup & Simulator](https://www.youtube.com/watch?v=K0y2tc38l2s) 
-	2. Asndroid setup, emulator [React Native For Everyone #3 - Android Setup & Emulation](https://www.youtube.com/watch?v=Q0dERWCzoi0)	
+	2. Asndroid setup, emulator [React Native For Everyone #3 - Android Setup & Emulation](https://www.youtube.com/watch?v=Q0dERWCzoi0)
 4. Understanding React Native & React	[React Native For Everyone #4 - Understanding React Native & React](https://www.youtube.com/watch?v=31nry-ewk4c)	
 5. Styles In React Native [React Native For Everyone #5 - Styles In React Native](https://www.youtube.com/watch?v=TbxyysumfPU)	
 6. Flexbox In React Native [React Native Flex Basics](https://www.youtube.com/watch?v=-xFF5KF-KpE&list=PL7D-0n1z1EbhkundIsOBaN_mlLvV4_hyO)
